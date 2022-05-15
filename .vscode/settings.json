@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ac101.h": "c",
+        "*.ipp": "cpp"
+    },
+    "cmake.configureOnOpen": true
+}
